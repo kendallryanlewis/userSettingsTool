@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\testOne\testOne\bin\Debug\testOne.exe.config
+C:\Users\Admin\Desktop\testOne\testOne\obj\Debug\testOne.exe
+C:\Users\Admin\Desktop\testOne\testOne\obj\Debug\testOne.pdb
+C:\Users\Admin\Desktop\testOne\testOne\obj\Debug\Restore System Application.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\testOne\testOne\obj\Debug\testOne.Form1.resources
+C:\Users\Admin\Desktop\testOne\testOne\obj\Debug\testOne.Properties.Resources.resources
+C:\Users\Admin\Desktop\testOne\testOne\obj\Debug\testOne.Splash.resources
+C:\Users\Admin\Desktop\testOne\testOne\obj\Debug\testOne.taskbarControl.resources
+C:\Users\Admin\Desktop\testOne\testOne\obj\Debug\Restore System Application.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\testOne\testOne\bin\Debug\testOne.exe
+C:\Users\Admin\Desktop\testOne\testOne\bin\Debug\testOne.pdb
+C:\Users\Admin\Desktop\testOne\testOne\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\testOne\testOne\bin\Debug\Newtonsoft.Json.xml
